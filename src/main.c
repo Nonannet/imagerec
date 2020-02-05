@@ -403,8 +403,8 @@ int main(int argc, char* argv[])
 					printf("options:\n");
 					printf("         -h                 show help\n");
 					printf("         -c commands        ASCII command string\n");
-					printf("         -d port            TCP/IP-port to listen on\n");
-					printf("         -p device          capture device name\n");
+					printf("         -p port            TCP/IP-port to listen on\n");
+					printf("         -d device          capture device name\n");
 					printf("         -r whidth*hight    image resolution\n");
 					printf("         -n pixels          max number of pixels for l command\n");
 					printf("         -f file            file path for w command (# for index)\n");
