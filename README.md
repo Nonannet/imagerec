@@ -1,5 +1,5 @@
 # imagerec
-
+```text
 A simple and lightweight image recognition tool for small Linux based
 embedded systems like the MT7688AN SoC.
 
@@ -14,13 +14,12 @@ Netcat can be very usefull for testing.
 
 Is uses only fixed point operations and is optimized for low memory devices.
 
-```text
 Usage: imagerec [-options]
 options:
          -h                 show help
          -c commands        ASCII command string
-         -d port            TCP/IP-port to listen on
-         -p device          capture device name
+         -p port            TCP/IP-port to listen on
+         -d device          capture device name
          -r whidth*hight    image resolution
          -n pixels          max number of pixels for l command
          -f file            file path for w command (# for index)
