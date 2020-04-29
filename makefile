@@ -1,5 +1,5 @@
 #Ensure that openwrt cross-compile environment variables are set prior to calling make:
-#	~/bin/openwrt.config
+#	openwrt.config
 
 CC=mipsel-openwrt-linux-gcc
 
