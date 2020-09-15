@@ -14,6 +14,8 @@ Netcat can be very usefull for testing.
 
 Is uses only fixed point operations and is optimized for low memory devices.
 
+Extended description and example on https://www.nonan.net/nkruse/imagerec
+
 Usage: imagerec [-options]
 options:
          -h                 show help
